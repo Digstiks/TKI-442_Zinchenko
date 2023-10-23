@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\DiGSt\Documents\GitHub\TKI-442_Zinchenko\task2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(61,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\DiGSt\Documents\GitHub\TKI-442_Zinchenko\task2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(69,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\DiGSt\Documents\GitHub\TKI-442_Zinchenko\task2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(85,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\DiGSt\Documents\GitHub\TKI-442_Zinchenko\task2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\DiGSt\Documents\GitHub\TKI-442_Zinchenko\task2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
